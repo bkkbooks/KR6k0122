@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0122_000.yaml, hash: 'sha256:114d37dce6cfb79b3ede948b476fb601c6f7a5b70fae006e6ca8d90f7bb2d658'}
-  - {seq: 1, filename: KR6k0122_001.yaml, hash: 'sha256:ac343d62e49c25e9efa45e5036d76be6c8a7b97abafc0b4cebf9c2c5ccb05f8a'}
+  - {seq: 1, filename: KR6k0122_001.yaml, hash: 'sha256:66e7b278d85eca9559decb14a6e7a4dcc25ebb3885faa1c6f69d596e93915da9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0122_001.markers.yaml, hash: 'sha256:87f3a898df9836e113a2311f556d7486e4bf245eb24bd0e77717976f2f9a1405'}
+  - {seq: 0, role: markers, filename: assets/KR6k0122_000.markers.yaml, hash: 'sha256:7c0cde99392b7882932824cdc89eea7e88c8cbec1edf3f8fa4a7be8b56d9133b'}
+  - {seq: 1, role: markers, filename: assets/KR6k0122_001.markers.yaml, hash: 'sha256:9a7a8f61a01ece9831a7f180f98f3b9d7d22e46af2c4c43a29c60f2dfae84bb7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 菩薩戒本一卷出〈地持戒品〉中
   type: juan
   level: 1
-hash: sha256:d41ce6ea2b558e5283ca6b142586100713a225b3ed3e01c8bea16e6689e804e6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:da93ee1607d77f9580bf4aacb3f7c20c60592c5d5ca122c5617e83ef1c798e34
